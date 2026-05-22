@@ -14,7 +14,7 @@
 
 ## Projetos
 
-📌 Sistema de Cadastro de Clientes em Python  
+📌 Sistema de Cadastro em Python  
 📌 Exercícios de lógica de programação  
 📌 Projetos acadêmicos
 
