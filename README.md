@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Samuel Seidel 👋
 
-<!--
-**SeideSamuel/SeideSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Estudando Java, Python e lógica de programação  
+🚀 Em busca da primeira oportunidade como Desenvolvedor Júnior  
 
-Here are some ideas to get you started:
+## Tecnologias em aprendizado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Python
+- Git e GitHub
+- Lógica de Programação
+- Programação Orientada a Objetos
+
+## Projetos
+
+📌 Sistema de Cadastro de Clientes em Python  
+📌 Exercícios de lógica de programação  
+📌 Projetos acadêmicos
+
+## Contato
+
+📧 samuelseidel@outlook.com  
+💼 LinkedIn: https://www.linkedin.com/in/samuel-marques-seidel-470491320/
